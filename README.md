@@ -1,2 +1,2 @@
-# Voting-Syatem
+# Cross Both voting System
 Remote voting system 
